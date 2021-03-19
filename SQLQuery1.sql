@@ -1,0 +1,1 @@
+﻿SELECT CarMark.CarMarkName FROM CarMark INNER JOIN CarInGarage ON CarMark.Id=CarInGarage.CarMarkId WHERE CarMark.Id=2

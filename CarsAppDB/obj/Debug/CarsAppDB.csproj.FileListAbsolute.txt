@@ -1,0 +1,12 @@
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\bin\Debug\Cars.mdf
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\bin\Debug\Cars_log.ldf
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\bin\Debug\CarsAppDB.exe.config
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\bin\Debug\CarsAppDB.exe
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\bin\Debug\CarsAppDB.pdb
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.csprojAssemblyReference.cache
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.Properties.Resources.resources
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.csproj.GenerateResource.cache
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.csproj.CoreCompileInputs.cache
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.exe
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.pdb
+C:\Users\Kadri.DESKTOP-22GTPK3\source\repos\CarsAppDB\CarsAppDB\obj\Debug\CarsAppDB.Form1.resources
